@@ -1,5 +1,5 @@
-# codecademy_javascript_syntax
- This is a repository for my Codecademy Learn JavaScript Syntax code that I want to save.
+# codecademy_javascript_syntax_i
+ This is a repository for my Codecademy Learn JavaScript Syntax, Part I code that I want to save.
 
  I'm making this repository public so people can find it if they'd like to see what I've come up with for the various projects as part of the course.
 
